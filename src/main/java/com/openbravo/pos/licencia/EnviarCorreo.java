@@ -259,6 +259,7 @@ public class EnviarCorreo extends JDialog {
         String contrasenia = verificadorLicencia.generarClaveAleatoria(10);
         createMail(contrasenia);
         sendMail("correo re enviado con existo");
+        
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
