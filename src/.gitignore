@@ -1,0 +1,6 @@
+git rm --cached -r target/classes/com/**/*.form
+
+target/classes/com/**/*.class
+
+git rm --cached -r target/classes/com/**/*.class
+git rm --cached -r target/classes/com/**/*.form

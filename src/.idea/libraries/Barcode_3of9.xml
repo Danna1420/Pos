@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Barcode_3of9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/other/Bonus/Barcode_3of9.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

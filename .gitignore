@@ -1,0 +1,12 @@
+git rm --cached -r target/classes/com/**/*.form
+
+target/classes/com/**/*.class
+
+git rm --cached -r target/classes/com/**/*.class
+git rm --cached -r target/classes/com/**/*.form
+git rm --cached -r target/classes/com/**/*.sql
+git rm --cached -r target/reports/com/**/*.sql
+git rm --cached -r target/reports/com/**/*.png
+target/locales/inserpciones.sql
+target/target/classes/inserpciones.sql
+target/target/locales/inserpciones.sql
